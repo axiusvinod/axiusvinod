@@ -1,6 +1,6 @@
 # Selarun HMS Project
 
-## Figma Designs Milestone - 1
+## Figma Designs Milestone_1: **Registration**
 
 - 🔹 [Repo 1](https://github.com/axiusvinod/Figmamakem1registrationauditlogpage) – Registration Audit Log Page
 - 🔹 [Repo 2](https://github.com/axiusvinod/Figmamakem1Designcompliancelegalform) – Design Compliance & Legal Form
